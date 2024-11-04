@@ -58,8 +58,8 @@
 ![Screenshot 2024-10-16 233109](https://github.com/user-attachments/assets/3d049812-adc3-4de8-8f51-08d4616fa28c)
 ## Heat Treatment of 3D printed part
 ![Screenshot 2024-10-16 233128](https://github.com/user-attachments/assets/26a71855-fe45-4703-be18-758e58f579f5)
-### Name:
-### Register Number:
+### Name:SHREE LEKHA S
+### Register Number:212223110052
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
